@@ -1,5 +1,11 @@
 import { test, expect } from '@playwright/test';
 
+import moment from 'moment';
+
+const date = moment().format("DD-MMM-YY");
+
+console.log(date);
+
 test('test', async ({ page }) => {
   await page.goto('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login');
   await page.getByRole('textbox', { name: 'Username' }).fill('Admin');
