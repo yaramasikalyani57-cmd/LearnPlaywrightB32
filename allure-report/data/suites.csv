@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","24046","enter credentials","chromium","Fri Dec 05 16:48:01 IST 2025","passed","Fri Dec 05 16:48:25 IST 2025","","demoQa.spec.js","",""
+"","54212","enter credentials","firefox","Fri Dec 05 16:48:01 IST 2025","passed","Fri Dec 05 16:48:55 IST 2025","","demoQa.spec.js","",""
+"","37161","enter credentials","webkit","Fri Dec 05 16:48:33 IST 2025","passed","Fri Dec 05 16:49:11 IST 2025","","demoQa.spec.js","",""
