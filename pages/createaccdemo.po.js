@@ -57,7 +57,7 @@ exports.logindemopage = class logindemopage {
 
 
     }
-
+    //Assertions
     async credentialsVerification(fullname, email, currentadd, permanentadd) {
 
         await expect(this.nameOutput).toHaveText(`Name:${fullname}`)
